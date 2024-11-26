@@ -1,0 +1,13 @@
+train: data/train/images
+val: data/valid/images
+test: data/test/images
+
+nc: 2
+names: ['minor', 'severe']
+
+roboflow:
+  workspace: nad-xvnbl
+  project: images-c2oq6
+  version: 2
+  license: Private
+  url: https://universe.roboflow.com/nad-xvnbl/images-c2oq6/dataset/2pip install -r requirements.txt
