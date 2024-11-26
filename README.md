@@ -85,24 +85,6 @@ This project provides a flexible system capable of identifying not only common d
 
 ---
 
-## **Steps for Image Preparation and Annotation**
-
-### 1. Crop images to a resolution of 640 x 640
-Resize images to a uniform dimension for consistent training. Use tools like [Online Video Cutter](https://online-video-cutter.com/resize-video) for quick resizing.
-
-### 2. Use DarkLabel for annotation
-Download the [DarkLabel](https://www.zaivhub.com/yolov5) tool and annotate damage types in the dataset.
-
-#### **Configuration:**
-- Open the `darklabel.yml` file with a text editor.
-- Add relevant damage types as classes (e.g., dent, scratch, crack).
-
-#### **Steps for Annotation:**
-- Open the video or image.
-- Extract frames and annotate damage types.
-- Ensure consistency in label naming between images and corresponding annotations.
-
----
 
 ## **Model Training Setup**
 
