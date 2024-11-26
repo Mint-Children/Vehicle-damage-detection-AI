@@ -80,8 +80,7 @@ This project provides a flexible system capable of identifying not only common d
    Additional images are sourced through public datasets and web searches to enhance diversity.
 
 ### Example Dataset Sources:
-- **[Google Drive - Vehicle Damage DataSet](https://drive.google.com/drive/)**  
-- **[Open Vehicle Dataset - Damage Examples](https://opendata.com/vehicles/damage)**  
+- **[Universe.Roboflow - Vehicle Damage DataSet](https://universe.roboflow.com/nad-xvnbl/images-c2oq6)**  
 
 ---
 
